@@ -1,0 +1,16 @@
+{
+  "name": "@vanyaerohin/emoji",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Vanya Erohin",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "request": "^2.87.0",
+    "twemoji": "^11.0.0"
+  }
+}
